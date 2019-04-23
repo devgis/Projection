@@ -1,0 +1,16 @@
+D:\LiYafei\Projection\Projection\bin\Debug\Projection.exe
+D:\LiYafei\Projection\Projection\bin\Debug\Projection.pdb
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.csprojAssemblyReference.cache
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.Main.resources
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.Properties.Resources.resources
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.csproj.GenerateResource.cache
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.csproj.CoreCompileInputs.cache
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.exe
+D:\LiYafei\Projection\Projection\obj\Debug\Projection.pdb
+E:\Work\Projection06\Projection\Projection\obj\Debug\Projection.exe
+E:\Work\Projection06\Projection\Projection\obj\Debug\Projection.pdb
+E:\Work\Projection06\Projection\Projection\bin\Debug\Projection.exe
+E:\Work\Projection06\Projection\Projection\bin\Debug\Projection.pdb
+E:\Work\Projection06\Projection\Projection\obj\Debug\Projection.Main.resources
+E:\Work\Projection06\Projection\Projection\obj\Debug\Projection.Properties.Resources.resources
+E:\Work\Projection06\Projection\Projection\obj\Debug\Projection.csproj.GenerateResource.Cache

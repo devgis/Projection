@@ -1,0 +1,10 @@
+D:\LiYafei\Projection\Test\bin\Debug\Test.exe
+D:\LiYafei\Projection\Test\bin\Debug\Test.pdb
+D:\LiYafei\Projection\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\LiYafei\Projection\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\LiYafei\Projection\Test\obj\Debug\Test.exe
+D:\LiYafei\Projection\Test\obj\Debug\Test.pdb
+E:\Work\Projection06\Projection\Test\bin\Debug\Test.exe
+E:\Work\Projection06\Projection\Test\bin\Debug\Test.pdb
+E:\Work\Projection06\Projection\Test\obj\Debug\Test.exe
+E:\Work\Projection06\Projection\Test\obj\Debug\Test.pdb
